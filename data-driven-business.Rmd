@@ -1,15 +1,16 @@
 ---
 title: "Assigment - Data Driven Business"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
-  html_notebook:
+html_notebook:
     toc: yes
     toc_depth: 2
 ---
 
 Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QlqI0gGOjo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QlqI0gGOjo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
 
 ## What features define a data driven business?
