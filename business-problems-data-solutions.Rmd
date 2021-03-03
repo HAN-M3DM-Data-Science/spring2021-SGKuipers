@@ -44,7 +44,7 @@ C        | Client Group: For whom is the service / product intended?            
 L        | Location: Where is the service / product sited?                        | On location used. By own trainer personal or hired operators.
 I        | Impact: What would represent success? How is this measured?            | Improved bottomline, reduced down time machines. improved billing by accurate measurements.
 P        | Professionals: Who provides or improves the service / product?         | Belair provides updates for drones and maintainence with a service level agreement. Also the infrastructure of the Business Intelligence Tools. 
-SE       | Service: What type of service / product is under consideration?        | The results of the drone are used to measure , analyse the aerial footage. Based on the task multiple readings can be used to provide answers to business questions.
+SE       | Service: What type of service / product is under consideration?        | The data collected from the drones are used to measure , analyse the aerial footage. Based on the task multiple readings can be used to provide answers to business questions.
 
 In order for Belair to improve the bottom line they introduce a complete drone based analytics solution to proces, view and share the drone surveys. These aerial data can be used to make calculations on expected volume of an area. Like a advanced volumetric toolset. all kinds of data is collected from the camera sensors in the drone. It gives the customers a wide arrange of tools.
 
