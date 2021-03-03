@@ -8,16 +8,43 @@ output:
     toc_depth: 2
 ---
 
-I have chosen Delair as a company. Delair has created a Aerial Intelligence Cloud Platform. It's a Drone Data Analyrics for Mines and Aggregates. 
+I have chosen Delair as a company. Delair has created a Aerial Intelligence Cloud Platform. It's a Drone Data Analytics for Mines and Aggregates. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp7Sus5MGQY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
+TO DO:
+More clear explanation of steps. Use some of theory in provost H2 and use it to answer the questions
+
+What are the three main things you learned here?
+1. Difference between supervised, unsupervised learning and in video semi-supervised learning.
+2. The different data formats used. XML vs JSON. the differences between both.
+3. Use different methods. for example ECLIPSE to translate your a problem into a data mining problem.
+
+What two things were interesting to you?
+The amount a creativity that can be used in machine learning. from images to solve a problem.
+I like to learn about how machine learning works. How i can prepare the data so I can use it to solve a problem.
+
+Which item you learned are you planning to apply to your project?
+I will use ECLIPSE for my current assignment.
 
 ## What was the business problem?
 
 Improving the margin in mining industry. Margin in the mining industry are very thin. [Source](https://www.statista.com/statistics/208725/net-profit-margin-of-the-top-mining-companies/#:~:text=For%202019%2C%20it%20means%20that,every%20U.S.%20dollar%20they%20earned.&text=The%20average%20net%20profit%20margin%20of%20the%20world's%20top%2040,to%20nine%20percent%20in%202019.) In this source it states that for 2019, it means that the top 40 mining companies kept nine cents of profit out of every U.S. dollar they earned.
 
+
+
 ## How was it translated into a data mining problem?
+
+Using the ECLIPSE model:
+
+Mnemonic | Question                                                               | Answer
+---------| -------------                                                          |-----------
+E        | Expectation: Why does the user want the information?                   | Save money on accurate measurements, using the tools to optimize the design and equipement selection. safety and regulatory concerns
+C        | Client Group: For whom is the service / product intended?              | Mining and raw material industry, preservation groups for the environment  
+L        | Location: Where is the service / product sited?                        | On location used. By own trainer personal or hired operators.
+I        | Impact: What would represent success? How is this measured?            | Improved bottomline, reduced down time machines. improved billing by accurate measurements.
+P        | Professionals: Who provides or improves the service / product?         | Belair provides updates for drones and maintainence with a service level agreement. Also the infrastructure of the Business Intelligence Tools. 
+SE       | Service: What type of service / product is under consideration?        | The results of the drone are used to measure , analyse the aerial footage. Based on the task multiple readings can be used to provide answers to business questions.
 
 In order for Belair to improve the bottom line they introduce a complete drone based analytics solution to proces, view and share the drone surveys. These aerial data can be used to make calculations on expected volume of an area. Like a advanced volumetric toolset. all kinds of data is collected from the camera sensors in the drone. It gives the customers a wide arrange of tools.
 
