@@ -1,30 +1,86 @@
 ---
-title: "Assigment - Data Driven Decision Making"
-author: name author here
+title: "Assigment - Data Driven Business"
+author: by Stijn Kuipers (432909)
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
-  html_notebook:
+html_notebook:
     toc: yes
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+The Youtube video below is a two part video with an Interview with Marko Orenius.He works at Amer Sports at the department Digital Service. And Olli Lindroos from Solito a company that provided a data driven solution for Amer Sports. Amer Sports is a Company which is closely related at my current job. Amer Sports is one of the biggest brands in the sportsgoods and apparel industry. With brands like Salomon, Atomic, Suunto, Mavic, Wilson and Peak Performance. The last one a company I work for here in the Netherlands. I was very interested in what they had to say about their Data driven business. since there wehere some changes at my work directly related to this.
 
-<---- Watch this video if you don't know how to embed video's ---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-BpoylzCt-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" data-external="1">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</iframe>
 
-<---- Replace this video with your business case example ---->
+## What features define a data driven business?
 
+Features of this data driven industry can be found in that they try to adapt to the changes of the consumer. They see changes in purchasing patterns. They see this as a reason to evolve their business as well. Changes in consumers purchasing patterns can be supported by a recent research report [Source](%5Bhttps://www.accenture.com/us-en/insights/consumer-goods-services/coronavirus-consumer-behavior-research) that focusses on COVID-19: How consumer behavior will be changed. The Image below feeds this narrative very well. image: ![](https://www.accenture.com/t20200619T071657Z__w__/us-en/_acnmedia/Accenture/Redesign-Assets/DotCom/Images/Global/General/45/Accenture-Consumers-Expect-Shopping-Habits-Change-Permanently-724x407.png)
 
-## Why was data driven decision making (3DM) useful in this business case?
+In the interview they are understanding the value of information about their consumers.As well as the product to answer questions like. How well are products performing in term of sales? Where are these products being used. How are these products used? They do this to get a better understanding of the market place.
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+## What are the important features of a data culture?
 
-## How did the organization apply 3DM?
+Data culture refers to a company's ability to use data to make decisions. Companies with a strong data culture consistently rely on data to inform their strategy [Source](%5Bhttps://www.millanchicago.com/resources/what-is-data-culture-and-why-do-you-need-it%5D). This research paper defines data culture as "a specific set of values, behaviours and norms that enables effective data analytics" [Source](https://www.researchgate.net/publication/336904583_Do_we_have_a_Data_Culture).
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+What are the values, behaviors and/or norms that we can find in the Amer Sports video.
 
-## What can the organization do with 3DM that they couldn’t do before?
+**Values:**
+Use data to drive the decisions of the employees.
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+**Behaviors:**
+Changing the way of working.
+
+Creating a transparent environment for the performance of all departments.
+
+**Norms:**
+Using carefully selected KPI's to measure performance
+
+## What are the transformation steps towards a mature data driven business?
+
+Using the CRISP-DM model for data mining we can define the steps taken towards a more data driven business
+
+image: ![](https://businessdatasolutions.github.io/courses/data%20science%20for%20business/gitbook/book-output/images/crisp.png)
+
+https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagram.png
+
+**Step 1) Business understanding**
+
+Traditionally Amer Sports Sells directly Business to Business (B2B). 
+Nowadays the changed it more to a Business to Consumer (B2C)
+This transformation started by asking the question what and who are our costumers?
+
+**Step 2) Data understanding, 3)Data preparation and 4)Modelling**
+
+Next step was to try and collect data via experiments by creating a dashboard for each department.
+
+**Step 5) Evaluation**
+
+After feedback, optimize these dashboards going over each department.
+
+**Step 1) Business understanding **
+They found out that each department had different data they wanted to see.
+
+**Step 6) Deployment**
+
+The end result was that that use data driven advice to drive more sales to retailer.
+
+To further improve this transformation they added some predictive analytics. For example the Sales department identify succesfull retailers and struggling retailer. This gave them the opportunity to be more proactive in their sales approach.
+
+Future steps yet to be taken: Automate & Scale the Supply Chain.
+
+The key takeaways according to the video are:
+
+* Technology is easy, driving culture is the *key*
+* Co-create with design, development & real end-users
+* Iterate quickly to better results
+
+Ingredients
+
+* Combine Quality Data
+* AGILE Method (Short, cycles for better anticipation and flexibility)
+* Motivated people
+* Modern AZURE-cloud technology (Cloudcomputing)
+

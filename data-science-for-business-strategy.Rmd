@@ -1,0 +1,28 @@
+---
+title: "Assigment - Data Science for Business Strategy"
+author: Stijn Kuipers (432909)
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+
+<---- Watch this video if you don't know how to embed video's ---->
+
+
+
+<---- Replace this video with your business case example ---->
+
+Answer the following questions. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis.
+
+1. What features define a mature data driven business?
+
+
+2. What are the important features of a data culture?
+
+
+3. What are the transformation steps towards a mature data driven business?
+
