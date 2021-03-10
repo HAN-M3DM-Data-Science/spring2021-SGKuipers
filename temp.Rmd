@@ -1,8 +1,10 @@
 ---
 title: "Assigment - Data Driven Business"
-author: by Stijn Kuipers (432909)
-date: March 22, 2005
-output: ioslides_presentation
+author: "by Stijn Kuipers (432909)"
+date: "March 22, 2005"
+output:
+  slidy_presentation: default
+  ioslides_presentation: default
 ---
 
 # The Business Case
